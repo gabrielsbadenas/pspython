@@ -1,0 +1,10 @@
+-------------- Python-PSP started Wed May  3 19:46:57 2023
+
+Free memory: 1317888
+PyPSP running in: ms0:/PSP/GAME/PYTHON
+Could not find platform independent libraries <prefix>
+Consider setting $PYTHONHOME to <prefix>[:<exec_prefix>]
+Search path: python.zip;ms0:/lib/python21.zip;ms0:/python/site-packages;ms0:/python
+
+'import site' failed; use -v for traceback
+--------------------------------------------------------------------------------

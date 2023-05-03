@@ -1,0 +1,1 @@
+cd jpcsp-windows-amd64\ms0\PSP\GAME\python

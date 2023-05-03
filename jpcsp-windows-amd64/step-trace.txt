@@ -1,0 +1,5 @@
+ms0\PSP\GAME\python\EBOOT.PBP
+Instruction Trace Dump - Unknown
+
+Local depth: 5
+
