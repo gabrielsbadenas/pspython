@@ -3,3 +3,4 @@ https://wololo.net/talk/viewtopic.php?t=13112
 https://github.com/pspdev/pspsdk
 https://github.com/SonicMastr/cpython-vita
 
+to do: stackless python http client
